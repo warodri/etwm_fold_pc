@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ETMW Fold PC</string>
+    <string name="default_home">https://entertomyworld.com</string>
+    <string name="address_hint">Search or enter address</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="reload">Reload</string>
+    <string name="tabs">Tabs</string>
+    <string name="menu">Menu</string>
+    <string name="hide_keyboard">Maximize browser</string>
+    <string name="show_keyboard">Show keyboard</string>
+    <string name="new_tab">New tab</string>
+    <string name="close_tab">Close tab</string>
+    <string name="home">Home</string>
+    <string name="desktop_site">Desktop site</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="adblocking">Ad blocking</string>
+    <string name="update_filters">Update ad filters</string>
+    <string name="filters_updated">Ad filter update started</string>
+    <string name="tab_switcher">Tabs</string>
+    <string name="done">Done</string>
+    <string name="close">Close</string>
+    <string name="download_started">Download started</string>
+    <string name="download_failed">Could not start download</string>
+    <string name="no_app_for_link">No app can open this link</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_subtitle">Tune your foldable mini computer.</string>
+    <string name="browser_section">BROWSER</string>
+    <string name="home_page">Home page</string>
+    <string name="home_page_desc">Opened when you start the app or create a new tab.</string>
+    <string name="keyboard_section">KEYBOARD</string>
+    <string name="function_row">Show function row</string>
+    <string name="function_row_desc">Adds esc and F1–F12 above the number row.</string>
+    <string name="privacy_section">PRIVACY</string>
+    <string name="adblock_title">Block ads and trackers</string>
+    <string name="adblock_desc">Network and cosmetic filtering using AdGuard, EasyList and EasyPrivacy filter lists.</string>
+    <string name="filter_status">Filters download in the background. Updates apply after reload.</string>
+    <string name="browsing_section">BROWSING</string>
+    <string name="desktop_title">Request desktop site</string>
+    <string name="desktop_desc">Use a Mac desktop user agent in every tab.</string>
+    <string name="about_section">ABOUT</string>
+    <string name="version_label">ETMW Fold PC 1.0</string>
+    <string name="reset_defaults">Reset to defaults</string>
+    <string name="save_done">Done</string>
+    <string name="adblock_credit">Ad blocking is handled locally by the ETMW filter engine using AdGuard, EasyList and EasyPrivacy lists. No browsing data leaves the device.</string>
+</resources>

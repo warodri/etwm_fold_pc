@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="desk">#090B0E</color>
+    <color name="line_soft">#20252D</color>
+    <color name="text_primary">#F2F4F8</color>
+    <color name="text_secondary">#9AA4B4</color>
+    <color name="text_tertiary">#6E7888</color>
+    <color name="accent">#0A84FF</color>
+    <color name="accent_bright">#5AB0FF</color>
+    <color name="accent_dim">#1C5C96</color>
+    <color name="transparent">#00000000</color>
+</resources>
